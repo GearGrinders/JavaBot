@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>JavaBot</label>
+	</settings>
+	<users>
+		<user>
+			<path>JavaBot.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>JavaBot.jcp</path>
+		</project>
+	</projects>
+</workspace>
